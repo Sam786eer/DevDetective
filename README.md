@@ -56,7 +56,7 @@ Edit
 
 ### 1. **Clone the Repository**
 ```sh
-git clone https://github.com/your-username/DevDetective.git
+git clone https://github.com/Sam786eer/DevDetective.git
 cd DevDetective
 2. Open index.html in Browser
 No build steps required. Just open directly in any modern browser.
